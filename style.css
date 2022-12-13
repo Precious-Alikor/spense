@@ -189,6 +189,7 @@ header {
   margin-top: 10px;
   text-decoration: underline;
   line-height: 10px;
+  cursor: pointer;
 }
 .secure_img {
   width: 45%;
